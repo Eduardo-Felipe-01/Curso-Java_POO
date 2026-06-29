@@ -1,4 +1,4 @@
-package secao_005._01_Expressoes_logicas;
+package secao_005._02_Expressoes_logicas;
 
 public class Exemplos_and {
 
