@@ -8,6 +8,8 @@ public class Exercicio_01 {
 
         Scanner sc = new Scanner(System.in);
 
+        // Mostrar a soma dos dois valores
+
         int valor1 = sc.nextInt();
         int valor2 = sc.nextInt();
 
