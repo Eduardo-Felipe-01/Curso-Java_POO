@@ -10,6 +10,8 @@ public class Exercicio_05 {
         Locale.setDefault(Locale.US);
         Scanner sc = new Scanner(System.in);
 
+        // Calcula a quantidade, o valor de duas peças e mostra o valor total
+
         int cp1 = sc.nextInt();
         int np1 = sc.nextInt();
         double vp1 = sc.nextDouble();

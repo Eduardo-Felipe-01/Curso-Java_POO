@@ -10,6 +10,8 @@ public class Exercicio_02 {
         Locale.setDefault(Locale.US);
         Scanner sc = new Scanner(System.in);
 
+        // Ler o raio de um circulo e mostra a area desse circulo
+
         double raio = sc.nextDouble();
         double pi = 3.14159;
 

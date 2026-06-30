@@ -10,9 +10,11 @@ public class Exercicio_04 {
         Locale.setDefault(Locale.US);
         Scanner sc = new Scanner(System.in);
 
-        int nf = sc.nextInt();
-        int ht = sc.nextInt();
-        double vh = sc.nextDouble();
+        // Calcula as horas trabalhadas de um funcionário e mostro quanto deve receber
+
+        int nf = sc.nextInt(); // número do funcionário
+        int ht = sc.nextInt(); // horas trabalhadas
+        double vh = sc.nextDouble(); //valor por hora
 
         double salario = ht * vh;
 

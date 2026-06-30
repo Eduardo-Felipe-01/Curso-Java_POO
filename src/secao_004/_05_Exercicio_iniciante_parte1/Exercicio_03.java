@@ -8,6 +8,8 @@ public class Exercicio_03 {
 
         Scanner sc = new Scanner(System.in);
 
+        // Mostra a dirença do produto A e B pelo produto C e D
+
         int a = sc.nextInt();
         int b = sc.nextInt();
         int c = sc.nextInt();

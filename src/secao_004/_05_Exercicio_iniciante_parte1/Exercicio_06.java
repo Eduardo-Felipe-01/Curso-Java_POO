@@ -3,12 +3,14 @@ package secao_004._05_Exercicio_iniciante_parte1;
 import java.util.Locale;
 import java.util.Scanner;
 
-public class Exercicio_6 {
+public class Exercicio_06 {
 
     public static void main(String[] args) {
 
         Locale.setDefault(Locale.US);
         Scanner sc = new Scanner(System.in);
+
+        // Calcula a área de triângulo, círculo, trapézio, quadrado, retângulo
 
         double a = sc.nextDouble();
         double b = sc.nextDouble();
