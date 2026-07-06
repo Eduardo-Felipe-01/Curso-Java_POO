@@ -1,4 +1,4 @@
-package secao_006.Estrutura_repetitiva_para_for;
+package secao_006._03_Estrutura_repetitiva_para_for;
 
 import java.util.Scanner;
 
