@@ -1,6 +1,6 @@
-package secao_008._03_criando_metodo_reaproveitamento_e_delegacao.application;
+package secao_008._03_Criando_metodo_reaproveitamento_e_delegacao.application;
 
-import secao_008._03_criando_metodo_reaproveitamento_e_delegacao.entities.Triangle;
+import secao_008._03_Criando_metodo_reaproveitamento_e_delegacao.entities.Triangle;
 
 import java.util.Locale;
 import java.util.Scanner;

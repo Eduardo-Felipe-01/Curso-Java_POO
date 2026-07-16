@@ -1,4 +1,4 @@
-package secao_008._05_Exercicio_de_fixacao._02_Exercicio.entities;
+package secao_008._05_Exercicio_de_fixacao_de_classes_e_metodo._02_Exercicio.entities;
 
 public class Employee {
 

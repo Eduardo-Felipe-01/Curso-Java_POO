@@ -1,4 +1,4 @@
-package secao_008._03_criando_metodo_reaproveitamento_e_delegacao.entities;
+package secao_008._03_Criando_metodo_reaproveitamento_e_delegacao.entities;
 
 public class Triangle {
 

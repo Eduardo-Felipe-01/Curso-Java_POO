@@ -1,4 +1,4 @@
-package secao_008._05_Exercicio_de_fixacao._01_Exercicio.entities;
+package secao_008._05_Exercicio_de_fixacao_de_classes_e_metodo._01_Exercicio.entities;
 
 public class Rectangle {
 

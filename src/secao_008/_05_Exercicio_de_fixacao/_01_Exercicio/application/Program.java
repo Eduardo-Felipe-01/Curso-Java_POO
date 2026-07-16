@@ -1,6 +1,6 @@
-package secao_008._05_Exercicio_de_fixacao._01_Exercicio.application;
+package secao_008._05_Exercicio_de_fixacao_de_classes_e_metodo._01_Exercicio.application;
 
-import secao_008._05_Exercicio_de_fixacao._01_Exercicio.entities.Rectangle;
+import secao_008._05_Exercicio_de_fixacao_de_classes_e_metodo._01_Exercicio.entities.Rectangle;
 
 import java.util.Locale;
 import java.util.Scanner;
