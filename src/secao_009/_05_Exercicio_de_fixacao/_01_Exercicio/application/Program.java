@@ -20,9 +20,9 @@ public class Program {
         sc.nextLine();
         String nome = sc.nextLine();
         System.out.print("Você tem um deposito inicial (s/n)? ");
-        String resposta = sc.nextLine();
+        char resposta = sc.next().charAt(0);
 
-        if (resposta.equalsIgnoreCase("s")) {
+        if (resposta == 's') {
             System.out.print("Digte o deposito inical: ");
             double depositado = sc.nextDouble();
 
@@ -34,17 +34,20 @@ public class Program {
         }
 
         System.out.println();
+        System.out.println("Dados da Conta: ");
         System.out.println(c);
 
         System.out.print("Digite o valor do deposito: ");
         double valor = sc.nextDouble();
         c.deposito(valor);
+        System.out.println("Dados da Conta Atualizado: ");
         System.out.println(c);
 
         System.out.println();
         System.out.print("Digite o valor de saque: ");
         valor = sc.nextDouble();
         c.saque(valor);
+        System.out.println("Dados da Conta Atualizado: ");
         System.out.println(c);
 
         sc.close();
